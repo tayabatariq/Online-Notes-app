@@ -1,0 +1,5 @@
+middlewares apki request or responise ko handle krty hian like agrr koi userr apny browser sa request send kr
+ rha ha /profilee ki to route k milny sa pehlyy ik middleware chly ga jo k ho ga app.use ya kia routers sa pehly
+ kam krta ha like agr hm chaty hian  k koi asa kam ho jo hm routers sa pehlyy chalna chaaty hian to hm ya middleware chala sakty hian 
+ is ma 3 cheexy hoti hian ik req,res,or next orr next ko use krna imp ha q k hm request ko agy routers pr b to send
+ kry gy 
