@@ -35,7 +35,11 @@
           <h1 class="text-white text-[1.2rem] ">
            <%= val %>
           </h1>
-          <a href="" class="text-blue-800 text-[.8rem] inline-block mt-4">Read More</a>
+          <div class="flex w-full justify-between items-center mt-4">
+            <a href="/files/<%= val %>" class="text-blue-800 text-[1rem] inline-block ">Read More</a>
+          <a href="/edit/ <%= val %>"  class="text-[.9rem] hover:text-blue-800 text-gray-700">Edit file name</a>
+          </div>
+
         </div>
       <% })%>
 
